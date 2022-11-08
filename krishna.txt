@@ -1,4 +1,6 @@
 This is my first Text file inot forked project from my git trainer... 
 Jason Taylor
 
+Happy to learn Git Jason (from master branch)
+
 Adding @Copyrights to this project.
