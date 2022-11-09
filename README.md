@@ -9,3 +9,8 @@ Sample website with plenty of files for demos, Adding notes to rebase case from 
 ### I`m Krishna Arigela Getting Started with Git
 
 Adding this message after rebase feature.
+
+#### This is to add thanks message to my mentor 
+
+Thank you Joe, for git tutorial (feature branch) This text from myfeature
+
