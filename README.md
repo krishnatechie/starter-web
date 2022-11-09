@@ -10,4 +10,4 @@ Sample website with plenty of files for demos, Adding notes to rebase case from 
 
 #### This is to add thanks message to my mentor 
 
-Thank you Joe, for git tutorial (feature branch)
+Thank you Joe, for git tutorial (feature branch) This text from myfeature
